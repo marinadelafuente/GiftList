@@ -41,10 +41,10 @@ Quiero una interfaz de usuario que:
    • Dónde comprarlo (nombre de tienda / mapa Google Maps)
    • Precio
    • Imagen o Imágenes (guardadas o hechas con la cámara del móvil en el momento)
- - al cerrar el modal el nombre del artículo se vea reflejado en una lista debajo de "Ideas para regalar".
+ - al cerrar el modal el nombre del artículo se vea reflejado en una lista debajo de "Gift Ideas".
  - al cerrar la página del perfil individual se vuelva a la página principal donde veremos una lista con los usuarios a regalar.
  - haya una pestaña para notificar si ya hemos comprado el regalo o no.
- - para añadir un regalo de forma directa, haya una pestaña con un "añadir regalo" y te lleve directa al modal donde agregar regalos para no tener que pasar por el paso intermedio si no quiero.
+ - para añadir un regalo de forma directa, haya una pestaña con un "Add Gift" y te lleve directa al modal donde agregar regalos para no tener que pasar por el paso intermedio si no quiero.
  - Por último, la aplicación mandará una notificación cuando se aproximen los cumpleaños anotados.
  
  Fases del proyecto:
