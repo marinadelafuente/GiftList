@@ -22,4 +22,5 @@ Para lo cual quiero:
 
 Fase 2
 
-En una segunda fase, 
+En una segunda fase, implementaremos un login con el que múltiples usuarios podrán guardar la información en su propio perfil. 
+Además, me gustaría agregar la opción de que un usuario pueda compartir su lista de regalos con otra persona.
