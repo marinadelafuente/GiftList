@@ -7,7 +7,11 @@ Descripción:
 En esta primera fase partiré de la premisa de que sólo un único usuario utilizará la aplicación y guardará toda la información
 en el local storage para posteriormente acceder a ella cuando vuelva a abrir la aplicación.
 
-La aplicación inciará
+Inciaremos la aplicación con una Landing Page con un botón "New Friend +" para añadir un nuevo usuario al que queramos
+hacer un regalo. Tras pulsar el botón, pasaremos a una segunda página donde escribiremos los datos del "New Friend". 
+A continuación, pulsaremos en el botón "New gift idea" y saltará un modal donde introduciremos los datos de la idea o regalo
+pensado. Si tenemos una imagen almacenada, la subiremos. También podremos hacer una fotografía en el instante y subirla. 
+O podremos dejar ese campo vacío. En el caso de que haya una imagen subida, se verá una pequeña previsualización en el modal. 
 
 
 Para lo cual quiero:
@@ -18,3 +22,4 @@ Para lo cual quiero:
 
 Fase 2
 
+En una segunda fase, 
