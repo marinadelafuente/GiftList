@@ -1,16 +1,15 @@
-Fase 1
+### Fase 1
 
-1. Requisitos
+## 1. Requisitos
 
-Descripción:
+# Descripción
 
 En esta primera fase partiré de la premisa de que sólo un único usuario utilizará la aplicación y guardará toda la información
 en el local storage para posteriormente acceder a ella cuando vuelva a abrir la aplicación.
 
 Inciaremos la aplicación con una Landing Page con un botón "New Friend +" para añadir un nuevo usuario al que queramos
 hacer un regalo. Tras pulsar el botón, pasaremos a una segunda página donde escribiremos los datos del "New Friend". 
-A continuación, pulsaremos en el botón "Add gift" y saltará un modal donde introduciremos los datos de la idea o regalo
-pensado: nombre del objeto o idea, descripción, imagen, coste y nombre de la tiende donde comprarlo. 
+A continuación, pulsaremos en el botón "Add gift" y saltará un modal donde introduciremos los datos de la idea o regalo pensado: nombre del objeto o idea, descripción, imagen, coste y nombre de la tiende donde comprarlo. 
 Asimismo, si queremos subir una imagen y la tenemos almacenada, la podremos subir directamente. Sino, podremos hacer una fotografía en el instante y subirla o 
 podremos dejar ese campo vacío. En el caso de que haya una imagen subida, se verá una pequeña previsualización en el modal.
 Cuando cerremos el modal, se añadirá el nombre del regalo debajo de "Gift Ideas". Cuando el usuario cierre la aplicación, 
@@ -28,26 +27,35 @@ Para lo cual quiero:
  "Add gift" para seguir agregando regalos.
 - Habrá una opción Delete Gift para eliminar el regalo al hacer hover sobre el regalo.
 - Guardar la información de nuevo.
-- Clickar botón "Return to Main Page" para volver a la landing.
+- Clickar botón "Go to Main Page" para volver a la landing.
 - Landing con el nombre del nuevo usuario pintado.
 
-Requisitos técnicos:
+# Requisitos técnicos
 
-Un get y un fetch para guardar los datos y recogerlos de un servidor fake.
-Eventos sintéticos de React.
-Manejo de componentes para pintar los elementos de los formularios.
-Maquetación.
+- Get y Fetch para guardar los datos y recogerlos de un servidor fake.
+- Eventos sintéticos de React.
+- Manejo de componentes para pintar los elementos de los formularios.
+- Maquetación.
 
-2. Prototipo
+## 2. Prototipo: 
 
-https://marvelapp.com/project/4623574/canvas/65041706/
+1 - Landing
+2 - New Friend Page
+3 - New Gift Idea Page
 
-Fase 2
-- En el campo de Dónde Comprarlo, implementaré la API de Google Maps para que cuando el usuario escriba el nombre de la tienda,
-se enlace con el mapa de Google Maps y nos dé la dirección exacta.
-- Añadir foto del "friend" en el perfil y agregarla a la pantalla principal al lado del nombre.
+[Prototipo en vivo](https://marvelapp.com/project/4623574/canvas/65041706/)
+![Prototipo](./info/prototype_GiftList1.png)
+![Prototipo](./info/prototype_GiftList2.png)
 
-Fase 3
+## 3. Planificación
+Tareas de la Fase 1: a desarrollar
 
-En una tercera fase, implementaremos un login con el que múltiples usuarios podrán guardar la información en su propio perfil. 
-Además, me gustaría agregar la opción de que un usuario pueda compartir su lista de regalos con otra persona.
+## 4. Desarrollo
+
+## 5. Feedback y valoración
+
+Para saber si he cumplido mi objetivo voy a:
+
+Probar la aplicación con datos de entrada.
+Probar a entrar y salir de la aplicación para comprobar que los datos se han guardado correctamente. 
+Enseñárselo a compañeros para que me dé feedback.
