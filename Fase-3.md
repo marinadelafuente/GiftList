@@ -1,4 +1,7 @@
-Fase 3
+Phase 3:
 
-En una tercera fase, implementaremos un login con el que múltiples usuarios podrán guardar la información en su propio perfil. 
-Además, me gustaría agregar la opción de que un usuario pueda compartir su lista de regalos con otra persona.
+In a third phase I would like to:
+- implement a link to Amazon's API so the user can be redirected from the app and buy the gift instantly.
+- share the list with another person
+- send an invitation to the app so another person can input their ideas about what they want
+
