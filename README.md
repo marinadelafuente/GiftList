@@ -54,9 +54,11 @@ A friend tells Marion about the app Giftlist, she decides to give it a try but d
  - Closing the profile will lead back to the main screen with the list of users. 
  - If the gift has been bought already, there will a tick next to the user's name that can be checked from that screen as well.
  - There will be a direct link to open the "add new gift" modal from the main screen. 
+ - There will be as well an option to delete a friend from the list.
  - The app will be syncronized with Google's calendar and will send a notification when the birthday date approaches.
+ - Once the birthday is passed, the checkbow will be removed but not the gift ideas.
  
-# Phases of the project
+# Prototypes and Phases
 
 [Phase 1](./Fase-1.md)
 [Phase 2](./Fase-2.md)
